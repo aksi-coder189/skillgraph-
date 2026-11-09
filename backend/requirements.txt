@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pyjwt
+pypdf
+python-multipart
+anthropic
+pymysql
+cryptography
